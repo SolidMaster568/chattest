@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Lottie, { useLottie } from 'lottie-react';
-import animationJson from './1.json';
+import animationJson from './assets/sticker/BananaAnimated_batch_tgs/0.json';
 import Earth from './Earth';
 
 function App() {
